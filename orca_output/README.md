@@ -9,7 +9,7 @@
   
 Bash
 - [post.sh](https://github.com/er1czz/ORCA-scripts/blob/main/orca_output/post.sh)
-  - show the wall time and if ORCAN is terminated normally
+  - show the wall time and if the job is done (terminated normally)
   - generate orca.molden for electrostatic potential (ESP) analysis
 - [DM_extract.sh](https://github.com/er1czz/ORCA-scripts/blob/main/orca_output/DM_extract.sh)
 - [Iso_extract.sh](https://github.com/er1czz/ORCA-scripts/blob/main/orca_output/Iso_extract.sh)
