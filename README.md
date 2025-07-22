@@ -1,8 +1,12 @@
 # ORCA-scripts
+- Leverage computational simulation to accelerate material discovery through collaboration with experiment team
+- Perform DFT geometry optimization and compute properties such as polarizability (requires polar module in input), electrostatic potential, etc.
+- Automate the workflow for upscaling
+  
 Personal notes for the automation of DFT calculation and data analysis, including
-- Create jobs in batch
-- Automate result analysis
-- Scripts mainly are written in bash, which is natively supported in Unix environment (some are in Python) 
+- [1] Create jobs in batch
+- [2] Automate result analysis
+- [3] Scripts mainly are written in bash, which is natively supported in Unix environment (some are with their equivalents in Python) 
 
 Software packages:
 - HPC
