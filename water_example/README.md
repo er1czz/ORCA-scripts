@@ -4,10 +4,7 @@ Example ORCA DFT task on HPC (PBS)
 - The rest are the output
 
 
-<details>
-
-<summary>water.inp (click to expand)</summary>
-
+water.inp
 ```ruby
 ! B3LYP def2-SVP Opt
 
@@ -20,12 +17,8 @@ H        0.000000000     -0.759337000      0.596043000
 
 *
 ```
-</details>
 
-<details>
-
-<summary>qsub.sh (click to expand)</summary>
-
+qsub.sh
 ```ruby
 #!/bin/bash
 #PBS -l nodes=1:ppn=8
@@ -50,4 +43,3 @@ time $orca $INPUT > $(basename $INPUT .inp).out
 echo "ORCA job finished at" `date`
 echo "Work Dir is: $PBS_O_WORKDIR"
 ```
-</details>
