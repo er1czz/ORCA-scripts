@@ -30,7 +30,7 @@ PC Environment:
 
 Create shortcuts in Unix via alias (with vim)
 - ```vi  ~/.bashrc```
-- copy below at the end
+- copy below to the end
 ```
 alias q="qstat"
 alias p="pestat"
