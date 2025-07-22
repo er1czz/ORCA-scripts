@@ -1,0 +1,17 @@
+! Opt r2SCAN-3c noautostart miniprint nopop PrintGap
+
+%elprop
+   Polar 1
+end
+
+%maxcore 3000
+
+%pal
+   nprocs 16
+end
+
+* xyz 0 1
+O        0.000000000      0.000000000      0.000000000
+H        0.000000000      0.759337000      0.596043000
+H        0.000000000     -0.759337000      0.596043000
+*
