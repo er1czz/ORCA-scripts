@@ -21,5 +21,5 @@ Python3
 
 Multiwfn by bash
 - [Lens.sh](https://github.com/er1czz/ORCA-scripts/blob/main/orca_output/Lens.sh)
-- [Vncs.sh](https://github.com/er1czz/ORCA-scripts/blob/main/orca_output/Vnsc.sh)
+- [Vncs.sh](https://github.com/er1czz/ORCA-scripts/blob/main/orca_output/Vncs.sh)
   - Vncs: please make sure the NCS atoms take the first three line of input xyz (which gives atomic index 1, 2, 3)
