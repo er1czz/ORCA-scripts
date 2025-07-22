@@ -1,4 +1,4 @@
-for i in {081..089}; do
+for i in {001..100}; do
 	mkdir "$i"
 	cp ../$i/orca.out $i/.
 	cp ../$i/orca.xyz $i/.
