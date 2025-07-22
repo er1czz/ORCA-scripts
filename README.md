@@ -1,4 +1,6 @@
 # ORCA-scripts
+<img src="https://www.faccts.de/wp-content/uploads/2024/06/Orca-Bildmarke-Hintergrund.png" width="100" height="100">
+
 - Leverage computational simulation to accelerate material discovery through collaboration with experiment team
 - Perform DFT geometry optimization and compute properties such as polarizability, electrostatic potential, etc.
 - Automate the workflow for upscaling
@@ -36,6 +38,6 @@ alias m="orca_2mkl orca.gbw orca.molden -molden -anyorbs"
 alias qq="qsub qsub.sh"
 ```
 - ```source ~/.bashrc``` to make the alias effective
-<img src="https://www.faccts.de/wp-content/uploads/2024/06/Orca-Bildmarke-Hintergrund.png" width="100" height="100">
+
 
 ### CC-BY-4.0
