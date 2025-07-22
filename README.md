@@ -36,6 +36,5 @@ alias m="orca_2mkl orca.gbw orca.molden -molden -anyorbs"
 alias qq="qsub qsub.sh"
 ```
 - ```source ~/.bashrc``` to make the alias effective
-
-![ORCA](https://www.faccts.de/wp-content/uploads/2024/06/Orca-Bildmarke-Hintergrund.png | width=100))
+<img src="[https://your-image-url.type](https://www.faccts.de/wp-content/uploads/2024/06/Orca-Bildmarke-Hintergrund.png)" width="100">
 ### CC-BY-4.0
