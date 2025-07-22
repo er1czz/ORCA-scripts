@@ -10,9 +10,10 @@ Personal note: header is the header of my standard input, only xyz info is diffe
 - orca.inp is an example ORCA input for water
 - r<sup>2</sup>SCAN-3c, "[swiss army knife](https://doi.org/10.1063/5.0040021)", is generally considered a more modern, efficient, and accurate approach
 - B3LYP/6-31G, outdated, sometimes unreliable
-
-![DFT benchmark](https://github.com/er1czz/ORCA-scripts/blob/main/orca_input/DFT_benchmark.png)
-
+- the preoptimization by Avogadro<sup>2</sup> most of the time will suffice for ORCA geometry optimization.
+  - Occasionally, the DFT optimization may take extrordinary long time, the job shall be terminated and started over with additional preoptimization, for example, by semi-empirical MOPAC PM6-D3H4 RHF
+  
+<img src="https://github.com/er1czz/ORCA-scripts/blob/main/orca_input/DFT_benchmark.png" width="250" height="250">
 
 
 ###### Image source:  https://doi.org/10.1002/anie.202205735
