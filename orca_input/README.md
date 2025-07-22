@@ -13,6 +13,6 @@ Personal note: header is the header of my standard input, only xyz info is diffe
 - For preoptimization, Avogadro<sup>2</sup> with MMFF94 will suffice
   - Occasionally, the DFT optimization may take extrordinary long time, it would be the best to terminate the job and start over with additional preoptimization, for example, by semi-empirical MOPAC PM6-D3H4 RHF
   - Another aspect for geometry optimization is the conformer search.
-<img src="https://github.com/er1czz/ORCA-scripts/blob/main/orca_input/DFT_benchmark.png">
+<img src="https://github.com/er1czz/ORCA-scripts/blob/main/orca_input/anie202205735fig0001m.jpg">
 
 ###### Image source:  https://doi.org/10.1002/anie.202205735
