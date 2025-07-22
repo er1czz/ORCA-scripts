@@ -27,9 +27,10 @@ PC Environment:
 - WSL 2: Ubuntu-24.04
 - Windows 11 Pro 26100.4652
 
-Useful tips in Unix 
-- create shortcut by alias
-in ~/.bashrc add
+
+Create shortcuts in Unix via alias
+- ```vi  ~/.bashrc```
+- copy the text to the end
 ```
 alias q="qstat"
 alias p="pestat"
@@ -37,7 +38,7 @@ alias qv="watch --interval=5 qstat"
 alias m="orca_2mkl orca.gbw orca.molden -molden -anyorbs"
 alias qq="qsub qsub.sh"
 ```
-- ```source ~/.bashrc``` to make the alias effective
+- ```source ~/.bashrc``` to make the change effective
 
 
 ### CC-BY-4.0
