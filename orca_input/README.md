@@ -1,6 +1,6 @@
 For the convenience of automation and batch process, all the input files will share the same name but in different sub-directories.
-- [orca.inp](https://github.com/er1czz/ORCA-scripts/blob/main/orca_input/orca.inp): orca input file, water example
-- [qsub.sh](https://github.com/er1czz/ORCA-scripts/blob/main/orca_input/qsub.sh): pbs job
+- **orca.inp**: orca input file
+- **[qsub.sh]**(https://github.com/er1czz/ORCA-scripts/blob/main/orca_input/qsub.sh): pbs job
   
 [prep.sh](https://github.com/er1czz/ORCA-scripts/blob/main/orca_input/prep.sh) will create a series of subdirs and copy header as orca.inp and qsub.sh of which
 - remove the last line of [header](https://github.com/er1czz/ORCA-scripts/blob/main/orca_input/header) for the convenience of mannual copy of xyz coordinates below
