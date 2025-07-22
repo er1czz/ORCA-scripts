@@ -7,7 +7,7 @@ orca.inp is an example of ORCA input file for water
 - r<sup>2</sup>SCAN-3c, "[swiss army knife](https://doi.org/10.1063/5.0040021)", is generally considered a more modern, efficient, and accurate approach
 - B3LYP/6-31G, outdated, sometimes unreliable
 
-![DFT benchmark](https://onlinelibrary.wiley.com/cms/asset/1c9cfa1f-b14c-4dbf-a91b-91404bdf40c6/ange202205735-fig-0001-m.jpg)
+![DFT benchmark](https://github.com/er1czz/ORCA-scripts/blob/main/orca_input/DFT_benchmark.png)
 
 prep.sh will create a series of subdirs and copy header as orca.inp and qsub.sh of which
 - remove the last line of header for the convenience of mannual copy of xyz coordinates below
@@ -15,4 +15,4 @@ prep.sh will create a series of subdirs and copy header as orca.inp and qsub.sh 
 
 Personal note: header is the header of my standard input, only xyz info is different, which shall be manually copied, respectively.
 
-### image origin:  https://doi.org/10.1002/anie.202205735
+##### image origin:  https://doi.org/10.1002/anie.202205735
