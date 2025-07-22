@@ -1,6 +1,5 @@
 # Output data analysis
 
-
 - DM: Dipole Moment (Debye)
 - Iso: Isotropic Polarizability (au)
 - EN: output last Single Point Energy (Eh), the lowest energy through geometry optimization
@@ -9,6 +8,9 @@
 - Vncs: output electrostatic potential Vs values of NCS fragment (with atomic index 1-3)
   
 Bash
+- [post.sh](https://github.com/er1czz/ORCA-scripts/blob/main/orca_output/post.sh)
+  - show the wall time and if ORCAN is terminated normally
+  - generate orca.molden for electrostatic potential (ESP) analysis
 - [DM_extract.sh](https://github.com/er1czz/ORCA-scripts/blob/main/orca_output/DM_extract.sh)
 - [Iso_extract.sh](https://github.com/er1czz/ORCA-scripts/blob/main/orca_output/Iso_extract.sh)
 - [EN_extract.sh](https://github.com/er1czz/ORCA-scripts/blob/main/orca_output/EN_extract.sh)
