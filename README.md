@@ -15,7 +15,7 @@ Software packages:
 - WSL
   - Multiwfn 3.8(dev) 
 - Windows
-  - Avogadro2 1.100.0
+  - Avogadro<sup>2</sup> 1.100.0
   - VMD 1.9.3
 
 HPC Environment:
