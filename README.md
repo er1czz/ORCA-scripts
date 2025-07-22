@@ -2,7 +2,7 @@
 Personal notes for the automation of DFT calculation and data analysis, including
 - Create jobs in batch
 - Automate result analysis
-- Scripts mainly are written in bash, which is natively supported in Unix environment (some are with Python equivalents) 
+- Scripts mainly are written in bash, which is natively supported in Unix environment (some are in Python) 
 
 Software packages:
 - HPC
