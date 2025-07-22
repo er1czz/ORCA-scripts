@@ -1,6 +1,6 @@
 # ORCA-scripts
 - Leverage computational simulation to accelerate material discovery through collaboration with experiment team
-- Perform DFT geometry optimization and compute properties such as polarizability (requires polar module in input), electrostatic potential, etc.
+- Perform DFT geometry optimization and compute properties such as polarizability, electrostatic potential, etc.
 - Automate the workflow for upscaling
   
 Personal notes for the automation of DFT calculation and data analysis, including
