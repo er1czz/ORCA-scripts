@@ -44,6 +44,6 @@ alias qq="qsub qsub.sh"
 Sections:
 - [1] example solo job run (water): [https://github.com/er1czz/ORCA-scripts/tree/main/water_example](https://github.com/er1czz/ORCA-scripts/tree/main/water_example)
 - [2] scripts for batch job preparation [https://github.com/er1czz/ORCA-scripts/tree/main/orca_input](https://github.com/er1czz/ORCA-scripts/tree/main/orca_input)
-- [3] scripts for batch job data analysis [https://github.com/er1czz/ORCA-scripts/tree/main/orca_output](https://github.com/er1czz/ORCA-scripts/tree/main/orca_input)
+- [3] scripts for batch job data analysis [https://github.com/er1czz/ORCA-scripts/tree/main/orca_output](https://github.com/er1czz/ORCA-scripts/tree/main/orca_output)
   
 ### CC-BY-4.0
