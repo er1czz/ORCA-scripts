@@ -35,6 +35,6 @@ alias qv="watch --interval=5 qstat"
 alias m="orca_2mkl orca.gbw orca.molden -molden -anyorbs"
 alias qq="qsub qsub.sh"
 ```
-- sourve ~/.bashrc to make the alias effective
+- ```source ~/.bashrc``` to make the alias effective
   
 ### CC-BY-4.0
