@@ -7,15 +7,11 @@ For the convenience of automation and batch process, all the input files will sh
 - the placeholder name in [qsub.sh](https://github.com/er1czz/ORCA-scripts/blob/main/orca_input/qsub.sh) will be replaced with subdir's
 
 
-<details>
-submit batch jobs
-
+Submit multiple jobs in one go
 ```ruby
 #!/bin/bash
 for dir in ./*/; do (cd "$dir" && qsub qsub.sh) done
 ```
-</details>
-
 
 
 Personal note: header is the header of my standard input, only xyz info is different, which shall be manually copied, respectively.
