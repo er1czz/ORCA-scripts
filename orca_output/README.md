@@ -9,16 +9,17 @@
 - Vncs: output electrostatic potential Vs values of NCS fragment (with atomic index 1-3)
   
 Bash
-- DM_extract.sh
-- Iso_extract.sh
-- EN_extract.sh
-- Gap_extract.sh
+- [DM_extract.sh](https://github.com/er1czz/ORCA-scripts/blob/main/orca_output/DM_extract.sh)
+- [Iso_extract.sh](https://github.com/er1czz/ORCA-scripts/blob/main/orca_output/Iso_extract.sh)
+- [EN_extract.sh](https://github.com/er1czz/ORCA-scripts/blob/main/orca_output/EN_extract.sh)
+- [Gap_extract.sh](https://github.com/er1czz/ORCA-scripts/blob/main/orca_output/Gap_extract.sh)
   
 Python3
-- DM_extract.py
-- Iso_extract.py
-- EN_extract.py
+- [DM_extract.py](https://github.com/er1czz/ORCA-scripts/blob/main/orca_output/DM_extract.py)
+- [Iso_extract.py](https://github.com/er1czz/ORCA-scripts/blob/main/orca_output/Iso_extract.py)
+- [EN_extract.py](https://github.com/er1czz/ORCA-scripts/blob/main/orca_output/EN_extract.py)
 
 Multiwfn by bash
-- Lens.sh
-- Vncs.sh
+- [Lens.sh](https://github.com/er1czz/ORCA-scripts/blob/main/orca_output/Lens.sh)
+- [Vncs.sh](https://github.com/er1czz/ORCA-scripts/blob/main/orca_output/Vnsc.sh)
+  - Vncs: please make sure the NCS atoms take the first three line of input xyz (which gives atomic index 1, 2, 3)
