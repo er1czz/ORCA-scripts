@@ -10,7 +10,7 @@ For the convenience of automation and batch process, all the input files will sh
 <details>
 <summary>submit batch jobs (click to expand)</summary>
 
-```ruby
+```
 #!/bin/bash
 for dir in ./*/; do (cd "$dir" && qsub qsub.sh) done
 ```
