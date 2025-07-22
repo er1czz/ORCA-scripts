@@ -25,6 +25,16 @@ PC Environment:
 - WSL 2: Ubuntu-24.04
 - Windows 11 Pro 26100.4652
 
-
+Useful tips in Unix 
+- bashrc alias
+in ~/.bashrc add
+```
+alias q="qstat"
+alias p="pestat"
+alias qv="watch --interval=5 qstat"
+alias m="orca_2mkl orca.gbw orca.molden -molden -anyorbs"
+alias qq="qsub qsub.sh"
+```
+- sourve ~/.bashrc to make the alias effective
   
-CC-BY-4.0
+### CC-BY-4.0
