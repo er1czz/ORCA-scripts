@@ -15,4 +15,4 @@ orca.inp is an example of ORCA input file for water
 
 
 
-##### image origin:  https://doi.org/10.1002/anie.202205735
+###### Image source:  https://doi.org/10.1002/anie.202205735
