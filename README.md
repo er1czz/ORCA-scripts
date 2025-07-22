@@ -26,7 +26,7 @@ PC Environment:
 - Windows 11 Pro 26100.4652
 
 Useful tips in Unix 
-- bashrc alias
+- create shortcut by alias
 in ~/.bashrc add
 ```
 alias q="qstat"
