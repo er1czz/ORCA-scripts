@@ -1,3 +1,4 @@
+mkdir data_copy
 for i in {001..100}; do
 	mkdir "$i"
 	cp ../$i/orca.out $i/.
