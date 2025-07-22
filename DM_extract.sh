@@ -6,7 +6,7 @@ rm -f dm.txt
 echo ">> subdir : Dipole Moment (Debye) <<"
 
 for subdir in */; do
-  # find the last line of HOMO and the last field
+  # find the last attern match
   DM=$(grep "Magnitude (Debye)      :" "$subdir"/orca.out | tail -n 1 | awk '{print $NF}')
   echo "${subdir%/} : $DM"
 # if you want save the output
