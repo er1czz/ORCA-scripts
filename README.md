@@ -23,7 +23,7 @@ Software packages:
 Create shortcuts in Unix via alias (with vim)
 - ```vi  ~/.bashrc```
 - copy below to the end
-```
+```ruby
 alias q="qstat"
 alias p="pestat"
 alias qv="watch --interval=5 qstat"
