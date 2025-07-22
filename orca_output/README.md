@@ -27,4 +27,4 @@ Multiwfn by bash
   - Vncs: please make sure the NCS atoms take the first three line of input xyz (which gives atomic index 1, 2, 3)
 
 ![Molecular Electrostatic Potential Map](https://github.com/er1czz/ORCA-scripts/blob/main/orca_output/ESP.png)
-- check out the tutorial from the Multiwfn dev [https://youtu.be/QFpDf_GimA0](https://youtu.be/QFpDf_GimA0)
+Check out the tutorial from the Multiwfn dev [https://youtu.be/QFpDf_GimA0](https://youtu.be/QFpDf_GimA0)
