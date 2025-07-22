@@ -6,6 +6,7 @@ Personal notes for the automation of DFT calculation and data analysis, includin
 
 Software packages:
 - HPC
+  - PBS 19.1.1
   - ORCA 5.1.0
 - WSL
   - Multiwfn 3.8(dev) 
@@ -15,7 +16,6 @@ Software packages:
 
 HPC Environment:
 - CentOS Linux 7 3.10.0-957.el7.x86_64
-- PBS 19.1.1
 
 PC Environment:
 - WSL 2: Ubuntu-24.04
