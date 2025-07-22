@@ -14,6 +14,6 @@ Personal note: header is the header of my standard input, only xyz info is diffe
   - Occasionally, the DFT optimization may take extrordinary long time, the job shall be terminated and started over with additional preoptimization, for example, by semi-empirical MOPAC PM6-D3H4 RHF
   
 <img src="https://github.com/er1czz/ORCA-scripts/blob/main/orca_input/DFT_benchmark.png" width="500">
-
+<img src="https://onlinelibrary.wiley.com/cms/asset/9decf855-c69e-422b-854c-0ba38420d394/anie202205735-fig-0001-m.jpg" width="500">
 
 ###### Image source:  https://doi.org/10.1002/anie.202205735
