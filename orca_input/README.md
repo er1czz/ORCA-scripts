@@ -8,7 +8,7 @@ orca.inp is an example of ORCA input file for water
 - B3LYP/6-31G, outdated, sometimes unreliable
 
 prep.sh will create a series of subdirs and copy header as orca.inp and qsub.sh of which
-- remove the last line of header for the convenience of mannual copy of xyz coordinates.
+- remove the last line of header for the convenience of mannual copy of xyz coordinates below.
 - qsub.sh: the placeholder name will be replaced with subdir's
 
 Personal note: header is the header of my standard input, only xyz info is different, which shall be manually copied, respectively.
