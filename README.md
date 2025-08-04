@@ -41,7 +41,9 @@ Sections:
 
 Tips for fast PuTTY login through Shortcut on Windows
 - From Shortcut property, append the Target with the login info
-- Example ```ruby
-   "C:\Program Files\PuTTY\putty.exe" -ssh username@ip_address -pw pa22w0rd -P p0rt```
+- Example
+  ```ruby
+   "C:\Program Files\PuTTY\putty.exe" -ssh username@ip_address -pw pa22w0rd -P p0rt
+  ```
 
 ### CC-BY-4.0
