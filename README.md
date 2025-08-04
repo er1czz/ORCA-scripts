@@ -39,12 +39,14 @@ Sections:
 - [3] scripts for batch job data analysis [https://github.com/er1czz/ORCA-scripts/tree/main/orca_output](https://github.com/er1czz/ORCA-scripts/tree/main/orca_output)
 
 
-Tips for fast PuTTY login through Shortcut on Windows
-- From Shortcut property, append the Target with the ssh login info
-- Example
-  ```ruby
-   "C:\Program Files\PuTTY\putty.exe" -ssh username@ip_address -pw pa22w0rd -P p0rt
-  ```
-- *Passwordless* between nodes: use ```ssh-keygen``` to generate a rsa keypair and then ```ssh-copy-id userid@hostname``` to the ssh target
+Tips for fast PuTTY login
+- Shortcut on Windows
+  - From Shortcut property, append the Target with the ssh login info
+  - Example
+    ```ruby
+     "C:\Program Files\PuTTY\putty.exe" -ssh username@ip_address -pw pa22w0rd -P p0rt
+    ```
+- *Passwordless* between nodes
+  - use ```ssh-keygen``` to generate a rsa keypair and then ```ssh-copy-id userid@hostname``` to the ssh target
   
 ### CC-BY-4.0
