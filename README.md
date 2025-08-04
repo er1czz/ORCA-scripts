@@ -39,8 +39,8 @@ Sections:
 - [3] scripts for batch job data analysis [https://github.com/er1czz/ORCA-scripts/tree/main/orca_output](https://github.com/er1czz/ORCA-scripts/tree/main/orca_output)
 
 
-Tips for fast PuTTY login on Windows
-- Create a PuTTT Shortcut
-- From property, append the Target with the login info, such as ```"C:\Program Files\PuTTY\putty.exe" -ssh username@ip_address -pw pa22w0rd -P p0rt```
+Tips for fast PuTTY login through Shortcut on Windows
+- From Shortcut property, append the Target with the login info
+- Example ```ruby "C:\Program Files\PuTTY\putty.exe" -ssh username@ip_address -pw pa22w0rd -P p0rt```
 
 ### CC-BY-4.0
