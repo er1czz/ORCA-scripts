@@ -22,9 +22,12 @@ Python3
 - [EN_extract.py](https://github.com/er1czz/ORCA-scripts/blob/main/orca_output/EN_extract.py)
 
 Multiwfn by bash
-- [Lens.sh](https://github.com/er1czz/ORCA-scripts/blob/main/orca_output/Lens.sh)
-- [Vncs.sh](https://github.com/er1czz/ORCA-scripts/blob/main/orca_output/Vncs.sh)
-  - Vncs: please make sure the NCS atoms take the first three line of input xyz (which gives atomic index 1, 2, 3)
+- Dimension [Lens.sh](https://github.com/er1czz/ORCA-scripts/blob/main/orca_output/Lens.sh)
+- Electrostatic Potential (ESP)
+  - Single fragment [Vncs.sh](https://github.com/er1czz/ORCA-scripts/blob/main/orca_output/Vncs.sh)
+  - e.g. NCS: please make sure the atoms in the target group take the first position of input coordinates (which gives atomic index 1, 2, 3)
+  - Two fragments [Vcc.sh](https://github.com/er1czz/ORCA-scripts/blob/main/orca_output/Vcc.sh)
+  - e.g. Two CC triple bonds: please make sure the atoms in the two target groups take the first two positions of input coordinates (in which two CC bonds give atomic index 1, 2, 3, 4)
 
 ![Molecular Electrostatic Potential Map](https://github.com/er1czz/ORCA-scripts/blob/main/orca_output/ESP.png)
 
