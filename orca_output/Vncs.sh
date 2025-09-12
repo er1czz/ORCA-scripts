@@ -19,7 +19,7 @@ awk process the whole line that contains the keyword
     avg=$(grep "Overall average value:" out.txt | tail -1 | awk '{print $7}')
     min=$(grep "Minimal value:" out.txt | tail -1 | awk '{print $3}')
     max=$(grep "Maximal value:" out.txt | tail -1 | awk '{print $7}')
-    echo "${dir%/}" : $avg : $min : $max>> vncs.txt
+    echo "${dir%/};$avg;$min;$max">> vncs.txt
     echo " >>> " $dir " done <<< "
     
   done
