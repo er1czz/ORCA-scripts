@@ -1,4 +1,4 @@
-<img width="310" height="123" alt="image" src="https://github.com/user-attachments/assets/a4c4166f-99e3-4cc1-a38e-1d0689956343" />### For the convenience of automation and batch process, all the input files will share the same name but in different sub-directories.
+### For the convenience of automation and batch process, all the input files will share the same name but in different sub-directories.
 - **orca.inp**: orca input file
 - [qsub.sh](https://github.com/er1czz/ORCA-scripts/blob/main/orca_input/qsub.sh): pbs job
   
