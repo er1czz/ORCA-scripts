@@ -38,7 +38,7 @@ Sections:
 - [2] scripts for batch job preparation [https://github.com/er1czz/ORCA-scripts/tree/main/orca_input](https://github.com/er1czz/ORCA-scripts/tree/main/orca_input)
 - [3] scripts for batch job data analysis [https://github.com/er1czz/ORCA-scripts/tree/main/orca_output](https://github.com/er1czz/ORCA-scripts/tree/main/orca_output)
 
-A simple batch .bat to convert orca xyz format to gjf (GaussView), executable in Windows [xyz2gjf.bat](https://github.com/er1czz/ORCA-scripts/tree/main/xyz2gjf.bat)
+A simple batch .bat to convert xyz format to gjf (GaussView), executable in Windows [xyz2gjf.bat](https://github.com/er1czz/ORCA-scripts/blob/main/xyz2gjf.bat)
 
 Tips for fast PuTTY login
 - Shortcut on Windows
