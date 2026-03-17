@@ -38,6 +38,7 @@ Sections:
 - [2] scripts for batch job preparation [https://github.com/er1czz/ORCA-scripts/tree/main/orca_input](https://github.com/er1czz/ORCA-scripts/tree/main/orca_input)
 - [3] scripts for batch job data analysis [https://github.com/er1czz/ORCA-scripts/tree/main/orca_output](https://github.com/er1czz/ORCA-scripts/tree/main/orca_output)
 
+A simple batch .bat to convert orca xyz format to gjf (GaussView), executable in Windows [xyz2gjf.bat](https://github.com/er1czz/ORCA-scripts/tree/main/xyz2gjf.bat)
 
 Tips for fast PuTTY login
 - Shortcut on Windows
@@ -48,5 +49,5 @@ Tips for fast PuTTY login
     ```
 - *Passwordless* between nodes
   - use ```ssh-keygen``` to generate a rsa keypair and then ```ssh-copy-id userid@hostname``` to the ssh target
-  
+
 ### CC-BY-4.0
